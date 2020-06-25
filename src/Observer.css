@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  background-color: slategray;
+  color: #fff;
+  height: 100vh;
+  margin: 0;
+  text-align: center;
+}
+
+h2 {
+  margin: 0;
+  padding: 3rem;
+}
+
+img {
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+.hide {
+  opacity: 0;
+}
+
+.show {
+  opacity: 1;
+}
